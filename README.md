@@ -1,4 +1,4 @@
-# 2D-RUNNER
+# 2D INFINITE RUNNER GAME
 ## OBJECTIVE:
 
 - The cowboy runs till he gets hit by a bat or a crate
